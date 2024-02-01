@@ -1,4 +1,4 @@
-# Lottery Application
+# Lottery Application for Employees
 
 The **Lottery Application** is a user-friendly desktop application designed to facilitate fair and transparent employee lotteries within organizations. The app streamlines the process of selecting random employees for various purposes, such as awards, recognition, or other events.
 
